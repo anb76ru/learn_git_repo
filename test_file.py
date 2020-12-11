@@ -7,4 +7,5 @@ c = 3
 
 def func():
     x = 1 + 2
+    x+=3
     print(x)
