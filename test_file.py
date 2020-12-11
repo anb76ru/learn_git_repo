@@ -4,3 +4,7 @@ print("dear user")
 a = 1
 b = 2
 c = 3
+
+def func():
+    x = 1 + 2
+    print(x)
